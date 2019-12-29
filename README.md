@@ -5,3 +5,5 @@ Yahtzee game built with react.js
 2. cd to yahtzee-game
 3. run `npm install`
 4. run `npm start`
+
+or play here - https://yahtzee-dice-rolling-game.herokuapp.com/
